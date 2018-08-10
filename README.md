@@ -1,7 +1,10 @@
 # Travel-Website
-Simple Travel website for Uttrakhand (Front end - HTML, CSS, Javascript).
+Simple travel website for Uttrakhand, India.
 
-![screen shot 2018-08-10 at 2 03 17 pm](https://user-images.githubusercontent.com/39009985/43974002-3161f0ee-9ca7-11e8-87ca-7959db765140.png)
+Front-end developed in pure HTML/CSS/Javascript. No frameworks!
+
+<img src="screenshots/top.png">
+
 ![screen shot 2018-08-10 at 2 03 29 pm](https://user-images.githubusercontent.com/39009985/43974003-317874fe-9ca7-11e8-9eb3-d48594711f6e.png)
 ![screen shot 2018-08-10 at 2 03 48 pm](https://user-images.githubusercontent.com/39009985/43974005-319746c2-9ca7-11e8-8cd5-0e640208a946.png)
 ![screen shot 2018-08-10 at 2 03 59 pm](https://user-images.githubusercontent.com/39009985/43974006-31ab351a-9ca7-11e8-9611-7feef6365f30.png)
