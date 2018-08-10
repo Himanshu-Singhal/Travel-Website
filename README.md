@@ -26,3 +26,6 @@ Front-end developed in pure HTML/CSS/Javascript. No frameworks!
 
 
 ![screen shot 2018-08-10 at 4 10 31 pm](https://user-images.githubusercontent.com/39009985/43979289-3ba94a50-9cb8-11e8-8fa2-dd2227a9b7c4.png)
+
+
+![screen shot 2018-08-10 at 4 16 49 pm](https://user-images.githubusercontent.com/39009985/43979459-d5f2b664-9cb8-11e8-9026-a70d0f2aa2f5.png)
