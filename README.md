@@ -1,6 +1,7 @@
 # Travel-Website
 Simple travel website for Uttrakhand, India.
 
+A single page website featuring a sticky header menu.
 Front-end developed in pure HTML/CSS/Javascript. No frameworks!
 
 
